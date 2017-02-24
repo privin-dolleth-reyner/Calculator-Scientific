@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="clearMemory_textSize">15sp</dimen>
+    <dimen name="clear_textSize">20sp</dimen>
+    <dimen name="display1_textSize">20sp</dimen>
+    <dimen name="display2_textSize">30sp</dimen>
+    <dimen name="equalTo_textSize">20sp</dimen>
+    <dimen name="memory_textSize">10sp</dimen>
+    <dimen name="operands_textSize">20sp</dimen>
+    <dimen name="operators_testSize">25sp</dimen>
+    <string name="AC">AC</string>
+    <string name="C">C</string>
+    <string name="MR">MR</string>
+    <string name="MS">MS</string>
+    <string name="Mminus">M-</string>
+    <string name="Mplus">M+</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">+</string>
+    <string name="app_name">Calculator-Scientific</string>
+    <string name="cos">cos</string>
+    <string name="cuberoot">³√</string>
+    <string name="delete">←</string>
+    <string name="divide">/</string>
+    <string name="dot">.</string>
+    <string name="eight">8</string>
+    <string name="equalTo">=</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="inverse">1/x</string>
+    <string name="ln">ln</string>
+    <string name="log">log</string>
+    <string name="multiply">x</string>
+    <string name="negate">±</string>
+    <string name="nine">9</string>
+    <string name="one">1</string>
+    <string name="percentage">%</string>
+    <string name="pi">π</string>
+    <string name="powerOf">^</string>
+    <string name="seven">7</string>
+    <string name="sin">sin</string>
+    <string name="six">6</string>
+    <string name="square">x²</string>
+    <string name="squaredisplay">²</string>
+    <string name="squareroot">√</string>
+    <string name="sub">-</string>
+    <string name="tan">tan</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="zero">0</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>

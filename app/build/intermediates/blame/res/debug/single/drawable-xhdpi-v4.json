@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\highlight.xml",
+        "source": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\src\\main\\res\\drawable-xhdpi\\highlight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\high4.xml",
+        "source": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\src\\main\\res\\drawable-xhdpi\\high4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\func.xml",
+        "source": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\src\\main\\res\\drawable-xhdpi\\func.xml"
+    },
+    {
+        "merged": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\high2.xml",
+        "source": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\src\\main\\res\\drawable-xhdpi\\high2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\button_press.xml",
+        "source": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\src\\main\\res\\drawable-xhdpi\\button_press.xml"
+    },
+    {
+        "merged": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\high3.xml",
+        "source": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\src\\main\\res\\drawable-xhdpi\\high3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\answer.xml",
+        "source": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\src\\main\\res\\drawable-xhdpi\\answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arith.xml",
+        "source": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\src\\main\\res\\drawable-xhdpi\\arith.xml"
+    },
+    {
+        "merged": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\test1.xml",
+        "source": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\src\\main\\res\\drawable-xhdpi\\test1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\buttons.xml",
+        "source": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\src\\main\\res\\drawable-xhdpi\\buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\m.xml",
+        "source": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\src\\main\\res\\drawable-xhdpi\\m.xml"
+    },
+    {
+        "merged": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\highm.xml",
+        "source": "C:\\Users\\Privin\\Documents\\workspace\\Calculator_Scientific\\app\\src\\main\\res\\drawable-xhdpi\\highm.xml"
+    }
+]
